@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: api-demo
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: GW00174103
+Built-By: win
 Implementation-Vendor-Id: com.zhuhy.api
-Build-Jdk: 1.8.0_144
+Build-Jdk: 1.8.0_131
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/api-demo
 Created-By: Maven Integration for Eclipse
